@@ -1,5 +1,6 @@
 # Cloud_Module
-cisco packet server applications
+Cisco packet server applications
+
 Assignment: You need to create a network in CISCO packet tracer, as shown in the picture and whose properties are given below.
 Lan-1 design requirements:
 1- Computer, laptop, access point and switch will be added as seen in the figure.
@@ -39,4 +40,3 @@ Lan-2 design requirements:
 
 9- All PCs and laptops must communicate with each other in Lan-2 and with those in Lan-1.
 
-image
